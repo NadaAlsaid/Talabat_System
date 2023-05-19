@@ -6,8 +6,8 @@ commitment to customer satisfaction.<br>
 Talabat also provides restaurants with an efficient way to manage their orders and streamline their operations. 
 
 - UseCase Diagram 
-![UseCase](https://github.com/NadaAlsaid/Talabat_System/assets/92337927/fd3c687c-d75c-4da8-930c-bac255ffd214)
+![UseCase](https://github.com/NadaAlsaid/Talabat_System/assets/92337927/ed2953e6-1d63-4c42-a4bb-06e8b397a808)
 
 - Sequence Diagram 
-![Sequence](https://github.com/NadaAlsaid/Talabat_System/assets/92337927/ec88e60d-f77b-4f19-aa2c-31d4107f3e63)
+![Sequence](https://github.com/NadaAlsaid/Talabat_System/assets/92337927/22de809a-306d-44c6-bbd1-0a28f95108f5)
 
