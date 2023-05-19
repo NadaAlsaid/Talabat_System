@@ -4,3 +4,10 @@ With a user-friendly interface and a wide range of cuisines to choose from,Talab
 The platform offers a seamless experience, allowing users to browse menus, place orders, track deliveries, and pay online with its innovative technology and 
 commitment to customer satisfaction.<br>
 Talabat also provides restaurants with an efficient way to manage their orders and streamline their operations. 
+
+- Use Case Diagram 
+![UseCase](https://github.com/NadaAlsaid/Talabat_System/assets/92337927/bc2a3864-4100-4ca3-843e-4692c42618bc)
+
+
+-Sequance Diagram 
+[talabat.pdf](https://github.com/NadaAlsaid/Talabat_System/files/11516384/talabat.pdf)
