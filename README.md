@@ -10,4 +10,11 @@ Talabat also provides restaurants with an efficient way to manage their orders a
 
 - Sequence Diagram 
 ![Sequence](https://github.com/NadaAlsaid/Talabat_System/assets/92337927/22de809a-306d-44c6-bbd1-0a28f95108f5)
-
+# Collaborators:
+- <a href="https://github.com/NadaAlsaid">Nada Alsaid</a><br>
+- <a href="https://github.com/anna-adel">Yoana Adel</a><br>
+- <a href="https://github.com/maHossam9">Mariam Hossam</a><br>
+- <a href="https://github.com/NadaShehata">Nada Ahmed</a><br>
+- Noha Essam
+- Mina Hisham
+- Ahmed Essam
